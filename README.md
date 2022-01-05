@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rizalspace
 - 👀 I’m interested in All about programming
 - 🌱 I’m currently learning Laravel 8
-- 💞️ I’m looking to collaborate on Githuh
+- 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me instagram rizalmaulanahasbi
 
 <!---
